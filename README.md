@@ -12,4 +12,8 @@ chmod +x server-stats.sh
 Execute the script
 
 ./server-stats.sh
+
+Project URL:
+https://roadmap.sh/projects/server-stats
+
 This project is part of roadmap.sh DevOps projects.
